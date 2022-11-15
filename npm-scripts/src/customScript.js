@@ -1,0 +1,1 @@
+console.log("That's another custom script");
